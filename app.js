@@ -65,7 +65,7 @@
             })
         }
 
-        trialBtn.addEventListener('click', checkDetailDetail)
+        trialBtn.addEventListener('click', checkDetail)
 
 
 
